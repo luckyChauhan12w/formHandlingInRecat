@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Login from "./components/login";
+import Login from "./components/Login";
 import Register from "./components/Register";
 import UserContext from "./contexts/UserContext";
 import UserDataList from "./components/UserDataList";
